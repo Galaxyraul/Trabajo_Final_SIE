@@ -1,0 +1,6 @@
+*KEY*
+venv/
+images/
+mapas/
+zonas_inundables/
+__pycache__/
